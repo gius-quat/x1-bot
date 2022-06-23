@@ -23,7 +23,7 @@
     "discord.js": "^13.6.0",
     "distube": "^3.3.2",
     "dotenv": "^16.0.0",
-    "got": "^11.8.3",
+    "got": "^11.8.5",
     "lavalink": "^2.13.0",
     "libsodium-wrappers": "^0.7.9",
     "mongodb": "^4.4.0",
